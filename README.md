@@ -1,7 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rawan%20Malek%20🫠&fontSize=68&fontAlignY=47&desc=Software%20Developer%20&descAlign=37&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rawan%20Malek%20&fontSize=68&fontAlignY=47&desc=Software%20Developer%20&descAlign=37&animation=twinkling"/>
+</p>
 
-<h2 align"centre">Connect with me on:</h2>
+<h2 align="center">
+  Connect with me or drop me a ✉️ on:
+</h2>
 
-![image](https://user-images.githubusercontent.com/108518878/199617422-a3d4c0af-f960-4317-b623-4d9f264d4953.png) ![image](https://user-images.githubusercontent.com/108518878/199617604-4087eeb8-5b12-47a6-8785-9310b402f9fb.png) ![image](https://user-images.githubusercontent.com/108518878/199617502-46e5a2a1-6d66-4d68-b602-996e8c4b0834.png) 
+<p align="center">
+  <a href="www.linkedin.com/in/rawan-malek">
+  <img height="50" src="https://user-images.githubusercontent.com/108518878/199621926-b1ba3246-2441-4313-96d4-f1ac012dc7ae.png"/>
+</a>
+  <a href="bnta-workspace.slack.com/team/U03S27MMY72">
+  <img height="50" src="https://user-images.githubusercontent.com/108518878/199623424-9ea26470-b6fb-461d-82e7-dcbd5e156517.png"/>
+</a>
+<a href="mailto:rawanmalek@hotmail.co.uk">
+  <img height="50" src="https://user-images.githubusercontent.com/108518878/199622220-bf5e4a36-22e3-4030-9a3e-b41fe42c4bf3.png"/>
+</a>
+</p>
 
-![image](https://user-images.githubusercontent.com/108518878/199618434-4204bd38-f7fb-4db9-b496-930066b63bc3.png)
