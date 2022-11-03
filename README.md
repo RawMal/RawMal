@@ -7,13 +7,13 @@
 </h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/rawan-malek">
+  <a href="mailto:rawanmalek@hotmail.co.uk">
   <img height="50" src="https://user-images.githubusercontent.com/108518878/199621926-b1ba3246-2441-4313-96d4-f1ac012dc7ae.png"/>
 </a>
-  <a href="bnta-workspace.slack.com/team/U03S27MMY72">
+  <a href="https:bnta-workspace.slack.com/team/U03S27MMY72">
   <img height="50" src="https://user-images.githubusercontent.com/108518878/199623424-9ea26470-b6fb-461d-82e7-dcbd5e156517.png"/>
 </a>
-<a href="mailto:rawanmalek@hotmail.co.uk">
+<a href="https://www.linkedin.com/in/rawan-malek/">
   <img height="50" src="https://user-images.githubusercontent.com/108518878/199622220-bf5e4a36-22e3-4030-9a3e-b41fe42c4bf3.png"/>
 </a>
 </p>
