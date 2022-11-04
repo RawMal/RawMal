@@ -8,9 +8,9 @@
 ```yaml
 
 intro:
-During my time as a DC engineer working towards my Alibaba (ACA) Cloud Computing Certification,
-I have freshly graduated from bootcamp where I was trained in the deadly arts of Java and JS
-and I am raring to put my new found skills and tools to develop some game changing projects!
+Freshly graduated from bootcamp where I was trained in the deadly arts of Java and JS 🥷
+now raring to put my new found skills and tools to develop some game changing projects!
+
 
 located_in: London, United Kingdom
 
@@ -28,8 +28,9 @@ experience:
   ]
 
 ```
-
 ---
+
+
 <img align="right" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>
 ---
 
