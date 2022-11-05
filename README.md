@@ -27,7 +27,7 @@ experience:
 
 ```
 
-<h2 align="center"> 🛠️ Tools I have learnt and used :</h2>
+<h3 align="center"> 🛠️ Tools I have learnt and used :</h3>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45" height="45"/>
@@ -44,8 +44,9 @@ experience:
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="45" height="45"/>
 <p>
 
+---
 
-<h2 align="center">
+<h3 align="center">
   Connect with me on </a>
 <a href="https://www.linkedin.com/in/rawan-malek/">
   <img height="25" src="https://user-images.githubusercontent.com/108518878/199622220-bf5e4a36-22e3-4030-9a3e-b41fe42c4bf3.png"/>
@@ -54,4 +55,4 @@ or send me some mail on
   <a href="mailto:rawanmalek@hotmail.co.uk">
   <img height="25" src="https://user-images.githubusercontent.com/108518878/199621926-b1ba3246-2441-4313-96d4-f1ac012dc7ae.png"/>
 </a>
-</h2>
+</h3>
