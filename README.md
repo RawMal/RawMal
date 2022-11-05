@@ -27,15 +27,21 @@ experience:
 
 ```
 
-<h2> 🚀 &nbsp; Tools I have used and learned:</h2>
-<p align="left">
-<img src="https://user-images.githubusercontent.com/108518878/199890533-ba43c576-738e-46d6-84e3-9934590f1aa9.png" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/108518878/199890959-8597b180-3bae-4fc4-a255-0335bc123e4a.png" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/108518878/199895906-9b047cd3-0e69-4a3d-b0b2-ba1333226c2e.png" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/108518878/199896183-011cc261-b3e0-4cbc-bd42-65be9806b2a2.png" width="45" height="45"/>
+<h2 align="center"> 🛠️ Tools I have learnt and used :</h2>
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/108518878/199896404-e519e59e-fc9d-423d-b2f2-326cdc5c5988.png" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/108518878/199896757-dfd20e92-2983-4d17-a5c5-9bea118f6f4a.png" width="45" height="45"/>
-
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/asyncjs/asyncjs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="45" height="45"/>
 <p>
 
 
