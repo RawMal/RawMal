@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rawan%20Malek%20&fontSize=68&fontAlignY=47&desc=Software%20Developer%20&descAlign=37&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rawan%20Malek%20&fontSize=68&fontAlignY=47&desc=Software%20Developer%20&descAlign=37&animation=twinkling"/>
 </p>
 
 
