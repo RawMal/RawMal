@@ -24,40 +24,8 @@ experience:
     "Yours truly developing Software for your Team" (DM me on Linkedin or shoot me an email to arrange an interview) 😉,
     "Backend, Frontend and Full Stack Projects with my fellow Boot Campers" 🥾,
     "Cloud Data Centre Engineering" ☁️, 
-    "Aircraft Mechanic" 🛫
+    "Aircraft Mechanic" 🛫,
   ]
-  
-currently_working_on:
-[
-  "Portfolio website using React"
-  "JS and Java mini projects, practice makes perfect 😉"
-  “If I had six hours to chop down a tree, I’d spend the first four hours sharpening the axe.” - Abraham Lincoln,
- ]
- 
-areas_of_interest:
-[
- "W3 and Blockchain",
- "Data Analysis, Autonomy and AI",
- "Cloud"
- "Web and APP development",
- "Aerospace Applications",
- ]
- 
-
-2023_project_goals:
-[
-  "Archery Tournament APP"
-  "Strength and Conditioning Athlete Programmer"
-  "Elite level life/work/business organisation app"
-]
-
-offscreen_interests:
-[
-  "Combat Sports: Judo and Wrestling on the ground 🥋, Boxing and Muay Thai for striking🥊
-  "Archery: Asiatic and Compound 🏹
-  "Strength + Conditioning and long distance running"
-
-  
 
 ```
 
@@ -77,6 +45,27 @@ offscreen_interests:
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="45" height="45"/>
 <p>
+
+---
+<img align="right" width="480" height="565" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>Currently working on:
+* Portfolio website using React
+* JS and Java mini projects, practice makes perfect 😉
+ 
+Areas of interest :
+* W3 and Blockchain
+* Data Analysis, Autonomy and Cloud
+* Web and APP development
+* Aerospace Applications         
+           
+2023 Project Goals :
+* Archery Tournament APP
+* Strength and Conditioning Athlete Programmer
+* Elite level life/work/business organisation App
+  
+Off Screen Interests :
+* Combat Sports: Judo 🥋, Wrestling and Boxing🥊
+* Archery: Traditional and Compound 🏹
+* Strength + Conditioning and long distance running 🏋🏽
 
 ---
 
