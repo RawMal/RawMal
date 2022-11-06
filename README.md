@@ -4,6 +4,7 @@
 
 
 
+
 ```yaml
 
 intro:
@@ -17,13 +18,46 @@ education:
     "Full Stack Developer Bootcamp Graduate" 💻,
     "Bachelor's in Aircraft Engineering" 🛩️,
   ]
+  
 experience:
   [
     "Yours truly developing Software for your Team" (DM me on Linkedin or shoot me an email to arrange an interview) 😉,
     "Backend, Frontend and Full Stack Projects with my fellow Boot Campers" 🥾,
     "Cloud Data Centre Engineering" ☁️, 
-    "Intern Aircraft Mechanic" 🛫
+    "Aircraft Mechanic" 🛫
   ]
+  
+currently_working_on:
+[
+  "Portfolio website using React"
+  "JS and Java mini projects, practice makes perfect 😉"
+  “If I had six hours to chop down a tree, I’d spend the first four hours sharpening the axe.” - Abraham Lincoln,
+ ]
+ 
+areas_of_interest:
+[
+ "W3 and Blockchain",
+ "Data Analysis, Autonomy and AI",
+ "Cloud"
+ "Web and APP development",
+ "Aerospace Applications",
+ ]
+ 
+
+2023_project_goals:
+[
+  "Archery Tournament APP"
+  "Strength and Conditioning Athlete Programmer"
+  "Elite level life/work/business organisation app"
+]
+
+offscreen_interests:
+[
+  "Combat Sports: Judo and Wrestling on the ground 🥋, Boxing and Muay Thai for striking🥊
+  "Archery: Asiatic and Compound 🏹
+  "Strength + Conditioning and long distance running"
+
+  
 
 ```
 
