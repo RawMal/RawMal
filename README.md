@@ -47,25 +47,25 @@ experience:
 <p>
 
 ---
-<img align="right" width="440" height="540" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>Currently working on:
+<img align="right" width="440" height="500" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>Currently working on 🗺️:
 * Portfolio website using React
 * JS and Java mini projects, practice makes perfect 😉
  
-Areas of interest :
+Areas of interest 👨‍💻:
 * W3 and Blockchain
 * Data Analysis, Autonomy and Cloud
 * Web and APP development
 * Aerospace Applications         
            
-2023 Project Goals :
+2023 Project Goals 📈:
 * Archery Tournament APP
 * Strength and Conditioning Athlete Programmer
 * Elite level life/work/business organisation App
   
-Off Screen Interests :
-* Combat Sports: Judo 🥋, Wrestling and Boxing🥊
-* Archery: Traditional and Compound 🏹
-* Strength + Conditioning and long distance running 🏋🏽
+Off Screen Interests 🏹:
+* Combat Sports: Judo, Wrestling and Boxing
+* Archery: Traditional and Compound
+* Strength + Conditioning and long distance running
 
 ---
 
