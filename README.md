@@ -47,7 +47,7 @@ experience:
 <p>
 
 ---
-<img align="right" width="480" height="565" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>Currently working on:
+<img align="right" width="440" height="540" src="https://media4.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif?cid=ecf05e47p52xc5v3eiohpstw1l03wgaqbg0s38ybtoukzxco&rid=giphy.gif&ct=g"/>Currently working on:
 * Portfolio website using React
 * JS and Java mini projects, practice makes perfect 😉
  
