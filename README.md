@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rawan%20Malek%20&fontSize=68&fontAlignY=47&desc=Software%20Developer%20&descAlign=37&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rawan%20Malek%20&fontSize=68&fontAlignY=30&desc=Software%20Developer%20&descAlign=37&descAlignY=45&animation=twinkling"/>
 </p>
 
 
@@ -90,3 +90,9 @@ What Engineer doesn't love Stats :bar_chart:
 </a>
 
 ![Snake animation](https://github.com/RawMal/RawMal/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
+
+
