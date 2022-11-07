@@ -79,3 +79,9 @@ or send me some mail on
   <img height="25" src="https://user-images.githubusercontent.com/108518878/199621926-b1ba3246-2441-4313-96d4-f1ac012dc7ae.png"/>
 </a>
 </h3>
+
+---
+
+What Engineer doesn't love Stats :bar_chart:
+
+![Rawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RawMal&show_icons=true&bg_color=00000000)
