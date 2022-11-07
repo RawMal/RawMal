@@ -54,11 +54,11 @@ experience:
 Areas of interest 👨‍💻:
 * W3 and Blockchain
 * Data Analysis, Autonomy and Cloud
-* Web and APP development
+* Web and Mobile App development
 * Aerospace Applications         
            
 2023 Project Goals 📈:
-* Archery Tournament APP
+* Archery Tournament App
 * Strength and Conditioning Athlete Programmer
 * Elite level life/work/business organisation App
   
@@ -74,7 +74,7 @@ Off Screen Interests 🏹:
 <a href="https://www.linkedin.com/in/rawan-malek/">
   <img height="25" src="https://user-images.githubusercontent.com/108518878/199622220-bf5e4a36-22e3-4030-9a3e-b41fe42c4bf3.png"/>
 </a>
-or send me some mail on  
+or let's start a conversation on  
   <a href="mailto:rawanmalek@hotmail.co.uk">
   <img height="25" src="https://user-images.githubusercontent.com/108518878/199621926-b1ba3246-2441-4313-96d4-f1ac012dc7ae.png"/>
 </a>
